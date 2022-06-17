@@ -9,7 +9,22 @@
 
 Ниже можно посмотреть НЕ ГОСТ варианты доки
 
+Структурная схема:
 ![структурка](img/structural.PNG)
 
+Принципиальная схема:
+![приципиалка](img/principial.PNG)
+
+Источник питания 6V 20A:
+![аккум](img/Power_6V20A.PNG)
+
+Схема заряда и питания:
+![питание](img/charge_and_supply.PNG)
+
+Сервоприводы:
+![Сервы](img/servodrive_module.PNG)
+
+WIFI модуль:
+![Сервы](img/WIFI_module.PNG)
 
 
